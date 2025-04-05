@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vuesoftware.github.io/",
+  "homepage": "https://vuesoftware.github.io/vue-web",
   "scripts": {
     "predeploy": "npm run build:dev",
     "deploy": "gh-pages -d dist",
